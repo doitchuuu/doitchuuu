@@ -1,5 +1,4 @@
 ## 🫧 Getting ready 🔧
-####### information security 🌱
 
 
 <!--
